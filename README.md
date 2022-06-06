@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<title>Slots Documentation</title>
-
-<xmp theme="cerulean" style="display:none;">
-
 # Installation
 
 1. Unzip the `slots_vX.X.X.zip` zip file you downloaded.
